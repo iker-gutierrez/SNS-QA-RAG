@@ -1,4 +1,4 @@
-The catalogue of clinical guidebooks used for building the dataset of this project is publicly available on this link (https://portal.guiasalud.es/gpc/). I did not use all of the clinical guidebooks in the catalogue. I used 6 of them.
+The catalogue of clinical guidebooks of the Spanish National Health System (SNS - Sistema Nacional de Salud) used for building the dataset of this project is publicly available on this link (https://portal.guiasalud.es/gpc/). I did not use all of the clinical guidebooks in the catalogue. I used 6 of them.
 
 Description of files in this repository:
 - "poster_SNS_QA_RAG.pdf": poster presentation describing the project.
