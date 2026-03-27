@@ -1,4 +1,6 @@
-Description of each file:
+The catalogue of clinical guidebooks used for building the dataset of this project is publicly available on this link: https://portal.guiasalud.es/gpc/
+
+Description of each file in this project:
 - "poster_SNS_QA_RAG.pdf": poster presentation describing the project.
 - "clinical_guidebooks_txt.zip": clinical guidebooks in .txt format.
 - "datasetting.ipynb": code for building the dataset.
