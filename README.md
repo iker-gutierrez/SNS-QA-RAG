@@ -1,3 +1,5 @@
+This project consists in a RAG-based clinical QA dataset and model for Spanish.
+
 The catalogue of Spanish clinical guidebooks used for building the dataset of this project is publicly available on this link (https://portal.guiasalud.es/gpc/). I did not use all of the clinical guidebooks in the catalogue. I used 6 of them.
 
 Description of files in this repository:
