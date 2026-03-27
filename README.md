@@ -4,3 +4,5 @@ Description of each file:
 - "datasetting.ipynb": code for building the dataset.
 - "dataset.csv": dataset.
 - "SNS_QA_RAG.ipynb": code for the model.
+- "faiss_index.bin": FAISS index used for retrieval.
+- "evaluation_results.csv": evaluation results of the model.
