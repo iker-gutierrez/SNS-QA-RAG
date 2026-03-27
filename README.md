@@ -1,6 +1,6 @@
 The catalogue of clinical guidebooks used for building the dataset of this project is publicly available on this link (https://portal.guiasalud.es/gpc/). I did not use all of the clinical guidebooks in the catalogue. I used 6 of them.
 
-Description of each file in this project:
+# Description of files in this repository:
 - "poster_SNS_QA_RAG.pdf": poster presentation describing the project.
 - "clinical_guidebooks_txt.zip": clinical guidebooks in .txt format.
 - "datasetting.ipynb": code for building the dataset.
