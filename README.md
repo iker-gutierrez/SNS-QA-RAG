@@ -9,4 +9,6 @@ Description of files in this repository:
 - "dataset.csv": dataset.
 - "SNS_QA_RAG.ipynb": code for the model.
 - "faiss_index.bin": FAISS index used for retrieval.
-- "evaluation_results.csv": evaluation results of the model.
+- "predictions.csv": predictions of the model.
+- per-sample metrics: results of the relevant metrics (cosine similarity and BERTscore F1) for each of the test samples.
+- all-sample metrics: results of the relevant metrics (cosine similarity and BERTscore F1) for all test samples (mean).
