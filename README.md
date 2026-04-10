@@ -11,4 +11,4 @@ Description of files in this repository:
 - "faiss_index.bin": FAISS index used for retrieval.
 - "predictions.csv": predictions of the model.
 - "per-sample metrics.csv": results of the relevant metrics (cosine similarity and BERTscore F1) for each of the test samples.
-- "all-sample metrics.csv": results of the relevant metrics (cosine similarity and BERTscore F1) for all test samples (mean).
+- "all-sample metrics.csv": results of the relevant metrics (cosine similarity and BERTscore F1) for all the test samples (mean).
