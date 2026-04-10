@@ -7,7 +7,7 @@ Description of files in this repository:
 - "clinical_guidebooks_txt.zip": clinical guidebooks in .txt format.
 - "datasetting.ipynb": code for building the dataset.
 - "dataset.csv": dataset.
-- "SNS_QA_RAG.ipynb": code for the model (including some relevant explanations).
+- "SNS_QA_RAG.ipynb": code for the model (including some relevant explanations of the code).
 - "faiss_index.bin": FAISS index used for retrieval.
 - "predictions.csv": predictions of the model.
 - "per-sample metrics.csv": results of the relevant metrics (cosine similarity and BERTscore F1) for each of the test samples.
